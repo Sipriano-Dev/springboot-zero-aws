@@ -5,13 +5,13 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>3.4.0</version>
+		<version>3.4.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.sipriano-dev</groupId>
-	<artifactId>springboot-zero-aws</artifactId>
+	<artifactId>rest_java_springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-zero-aws</name>
+	<name>rest_java_springboot</name>
 
 	<properties>
 		<java.version>21</java.version>

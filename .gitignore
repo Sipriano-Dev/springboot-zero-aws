@@ -179,7 +179,7 @@ build/
 ### VS Code ###
 .vscode/
 
-### Some additional ignores (sort later)
+### Some additional ignores
 *.DS_Store
 *.sw?
 .#*
@@ -204,3 +204,46 @@ README.html
 mvnw
 mvnw.cmd
 HELP.md
+
+
+
+*.class
+
+
+/node_modules
+
+# SSH Keys
+
+*.pem
+*.ppk
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Merge Files
+*.bak
+
+#Gradle temporary files
+target/
+
+#Eclipse files
+**/.project
+**/.classpath
+**/.settings/
+/bin/
+blog/bin/
+**/.tern-project
+**/.factorypath
+
+#IntelliJ files
+**/*.iml
+**/.idea
+**/.gradle
+
+#Other Files
+*.ini
